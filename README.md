@@ -33,6 +33,7 @@ Este projeto é uma aplicação web que gerencia usuários. Utilizei as seguinte
   5. **Autenticação de Usuários:**
      - Implementa um sistema básico de autenticação.
      - O usuário pode fazer login com um nome de usuário e senha.
+     - Login para acessar a aplicação pela primeira vez: Usuário: Fortes / Senha: 123
      - Se as credenciais forem válidas, o usuário é redirecionado para a página principal com acesso às funcionalidades de gerenciamento de usuários.
 
   6. **Interface Responsiva:**
